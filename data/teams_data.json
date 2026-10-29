@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Instituto Poderosa Fé",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/x/g/xgnjytrjvn8.webp",
+    "field": "Campo del Instituto Otaku",
+    "field_element": "AIR",
+    "participations": [
+      {
+        "id_league": 1,
+        "id_season": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alia Academy",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/p/e/pey-xhcribu.webp",
+    "field": "Mensajeros de las Estrellas",
+    "field_element": "MON",
+    "participations": [
+      {
+        "id_league": 1,
+        "id_season": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Academia Orchid",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/k/8/k8sfpakvnzu.webp",
+    "field": "Estadio Osakaland",
+    "field_element": "BOS",
+    "participations": [
+      {
+        "id_league": 1,
+        "id_season": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Barcelona Orb",
+    "logo": "https://dxi4wb638ujep.cloudfront.net/1/k/q/n/qn0wcgh7m7s.webp",
+    "field": "Champ Nou",
+    "field_element": "FUE",
+    "participations": [
+      {
+        "id_league": 1,
+        "id_season": 1
+      }
+    ]
+  }
+]

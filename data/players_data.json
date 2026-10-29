@@ -1,0 +1,642 @@
+[
+  {
+    "team_id": 1,
+    "id_player": 3265,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 316,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1744,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1983,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 81,
+    "captain": 1
+  },
+  {
+    "team_id": 1,
+    "id_player": 2429,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 2
+  },
+  {
+    "team_id": 1,
+    "id_player": 3334,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 3281,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1045,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1069,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 249,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 27,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 3261,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 4452,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 3278,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 3277,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1154,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 2602,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 1986,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 3244,
+    "id_league": 1,
+    "id_season": 1,
+    "average": null,
+    "captain": 0
+  },
+  {
+    "team_id": 1,
+    "id_player": 4462,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 2591,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 82,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4081,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 1732,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 1734,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4166,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 5221,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4164,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4069,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 3839,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4725,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 1251,
+    "id_league": 1,
+    "id_season": 1,
+    "average": null,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 2706,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 78,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 1083,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 78,
+    "captain": 2
+  },
+  {
+    "team_id": 2,
+    "id_player": 4350,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 113,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 3746,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 4625,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 2,
+    "id_player": 1690,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 81,
+    "captain": 1
+  },
+  {
+    "team_id": 2,
+    "id_player": 3308,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 3323,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 248,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1974,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 4157,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1694,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 4025,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 2554,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1795,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 2
+  },
+  {
+    "team_id": 3,
+    "id_player": 1729,
+    "id_league": 1,
+    "id_season": 1,
+    "average": null,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 3780,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 2147,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 2521,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1737,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1880,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 1973,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 5425,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 3719,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 3556,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 3,
+    "id_player": 15,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 77,
+    "captain": 1
+  },
+  {
+    "team_id": 3,
+    "id_player": 3667,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4483,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 78,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4328,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4323,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 5129,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 5347,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4519,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4213,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 3383,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4322,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4516,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 75,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 2420,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 76,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4040,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 72,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4393,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 79,
+    "captain": 1
+  },
+  {
+    "team_id": 4,
+    "id_player": 4776,
+    "id_league": 1,
+    "id_season": 1,
+    "average": null,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 4203,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 2
+  },
+  {
+    "team_id": 4,
+    "id_player": 4212,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 74,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 3651,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 1103,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 71,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 1093,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 73,
+    "captain": 0
+  },
+  {
+    "team_id": 4,
+    "id_player": 3367,
+    "id_league": 1,
+    "id_season": 1,
+    "average": 70,
+    "captain": 0
+  }
+]
